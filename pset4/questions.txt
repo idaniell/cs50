@@ -1,0 +1,41 @@
+0. JPG: 16.7 million collors
+   GIF: 256 collors
+   BMP: 01 bit: monochromatic
+        08 bit: 256 colors
+        24 bit: 16.8 mil colors
+  PNG: 16.8 mil colors plus alpha chan
+  
+1. GIF is the only one 
+
+2. The difference is that the lossless reduce file size while preserving a perfect copy of the uncompressed image, and lossy trades image quality for file size doesn't preserve the perfect copy ov the uncompressed image.
+
+3. Just JPEG uses lossy compression 
+4. When a file is deleted in FAT system, the first character is modified in the file's directory to indicate that the file has been deleted, and that the address can be recycled, then the clusters are moved to the list of free clusters.
+
+5. Rewrite all the empty space on the disk one to two times. 
+
+6. stdint.h is a header file that describes sets of types having specified widths.
+
+7. To specify the width of signed and unsigned int types (the number of bits).
+
+8. BYTE has 1 byte, DWORD has 4 bytes, LONG has 4 bytes, WORD has 2 bytes. 
+
+9. Signature letters BM with hex value (0x42 0x4D) 
+
+10. bfSize describes the entire file's size in bytes, biSize is just the header size in bytes 
+
+11. A negative value for biHeight occurs when pixel data is ordered from the top-down. It means that the vertical orientation of the image is top-down. 
+
+12. The biBitCount field. 
+
+13. If there is no output file to point to, or when file is too large. 
+
+14. It reads 1 byte at a time 
+
+15. Because the size of each scanline must be a multiple of 4 
+
+16. It is used to change the file postion of the stream to a specified location.
+
+17. Seeks from current location
+
+18. It's a guy smiling, I don't know him.
