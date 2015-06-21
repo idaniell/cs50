@@ -1,0 +1,12 @@
+ 0. A lung disease caused by the inhalation of very fine silica dust, causing inflammation in the lungs. 
+ 1. Returns resource usage measures, like CPU time.
+ 2. There are 16 members.
+ 3. If we pass them by value, it would be costly. It's a wasting of time and resources.
+ 4. Main is reading words in the file by reading each individual character till the end of the file. It starts by appending characters to a word until it encounters the NULL character.
+ 5. Using fgetc to reach each word's characters allows us to ignore words with numbers. 
+ 6. Because the control flow of speller prints out the misspelled words.
+ 7. I used a hash table. The elements of my array it was initialized with NULL. New words are placed in nodes, and the hash function indicates where in the array the word should be inserted into. 
+ 8. All the elements were being placed in the same place of the array, so, it always n. 
+ 9. I just indexing by first letter in word. 
+ 10. I don't think so, but at least I have not found.
+
